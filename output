@@ -1,0 +1,113 @@
+
+FoundGridCurve: False
+Query:0
+FoundGridCurve: False
+Query:1
+FoundGridCurve: False
+Query:2
+FoundGridCurve: True
+LSH nearest neighbor: 7
+distance LSH: 
+0.00426432
+Query:3
+FoundGridCurve: False
+Query:4
+FoundGridCurve: False
+Query:5
+FoundGridCurve: False
+Query:6
+FoundGridCurve: True
+LSH nearest neighbor: 17
+distance LSH: 
+0.00212641
+Query:7
+FoundGridCurve: False
+Query:8
+FoundGridCurve: True
+LSH nearest neighbor: 16
+distance LSH: 
+0.00249231
+Query:9
+FoundGridCurve: True
+LSH nearest neighbor: 16
+distance LSH: 
+0.00478502
+Query:10
+FoundGridCurve: False
+Query:11
+FoundGridCurve: False
+Query:12
+FoundGridCurve: True
+LSH nearest neighbor: 16
+distance LSH: 
+0.00209831
+Query:13
+FoundGridCurve: False
+Query:14
+FoundGridCurve: False
+Query:15
+FoundGridCurve: True
+LSH nearest neighbor: 13
+distance LSH: 
+0.00209831
+Query:16
+FoundGridCurve: True
+LSH nearest neighbor: 7
+distance LSH: 
+0.00264047
+Query:17
+FoundGridCurve: False
+Query:18
+FoundGridCurve: False
+Query:0
+FoundGridCurve: False
+Query:1
+FoundGridCurve: False
+Query:2
+FoundGridCurve: False
+Query:3
+FoundGridCurve: False
+Query:4
+FoundGridCurve: True
+LSH nearest neighbor: 15
+distance LSH: 
+0.022626
+Query:5
+FoundGridCurve: False
+Query:6
+FoundGridCurve: False
+Query:7
+FoundGridCurve: False
+Query:8
+FoundGridCurve: False
+Query:9
+FoundGridCurve: False
+Query:10
+FoundGridCurve: False
+Query:11
+FoundGridCurve: False
+Query:12
+FoundGridCurve: True
+LSH nearest neighbor: 16
+distance LSH: 
+0.00209831
+Query:13
+FoundGridCurve: False
+Query:14
+FoundGridCurve: True
+LSH nearest neighbor: 5
+distance LSH: 
+0.022626
+Query:15
+FoundGridCurve: True
+LSH nearest neighbor: 13
+distance LSH: 
+0.00209831
+Query:16
+FoundGridCurve: True
+LSH nearest neighbor: 13
+distance LSH: 
+0.00262718
+Query:17
+FoundGridCurve: False
+Query:18
